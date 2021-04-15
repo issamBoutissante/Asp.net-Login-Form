@@ -1,0 +1,15 @@
+﻿body {
+ 
+}
+form{
+    text-align:center;
+    width:600px;
+    margin:0 auto;
+    background-color:deepskyblue;
+    margin-top:100px;
+    padding:50px 20px;
+    color:white;
+}
+form *{
+    margin:10px;
+}
